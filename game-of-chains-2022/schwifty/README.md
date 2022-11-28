@@ -8,15 +8,16 @@ Contents
 
 ## Status
 
+Schwifty is the first ICS consumer chain with an NFT module! Assuming the Game of Chains community approval of the Schwifty governance proposal, implementation will occur as follows:
+
 * Timeline
-  * 2022-11-28: Spawn time: `2022-11-30T17:00:00.000000000Z`
-  * 2022-11-28: Proposal 8 voting period ends
-  * 2022-11-24: Proposal 8 goes into voting period
-  * 2022-11-24: Genesis file without CCV state is generated
+  * 2022-11-30: Spawn time: `2022-11-31T00:00:00.000000000Z`
+  * 2022-11-30: Proposal 30 voting period ends
+  * 2022-11-28: Proposal 30 goes into voting period
+  * 2022-11-28: Genesis file without CCV state is generated
 
-Thank you for pointing out the issues in `prop-8`.  I encourage everyone to vote `no` on prop-8 due to the bad metadata that was found by this great community!  
 
-`prop-9` fixes both the spawntime, and the bad metadata (404 url) in the proposal description. `schwifty` will launch as a consumer chain through a governance proposal in the `provider` chain. Read the [Consumer Chain Start Process](/docs/Consumer-Chain-Start-Process.md) page for more details about the workflow.
+`schwifty` will launch as a consumer chain through a governance proposal in the `provider` chain. Read the [Consumer Chain Start Process](/docs/Consumer-Chain-Start-Process.md) page for more details about the workflow.
 
 The following items will be included in the proposal:
 * Genesis file hash
