@@ -1,0 +1,5 @@
+#!/bin/bash
+gaiad query provider consumer-genesis schwifty-1 -o json | jq . > ccv_schwifty.json
+curl -s https://raw.githubusercontent.com/toschdev/ics-testnets/main/game-of-chains-2022/schwifty/prop-9/schwifty-fresh-genesis.json | jq . > prep_schwifty.json
+jq -s '.[0].app_state.ccvconsumer = .[1] | .[0]' prep_schwifty.json ccv_schwifty.json > schwifty-genesis.json
+sha256sum schwifty-genesis.json
