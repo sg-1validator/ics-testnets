@@ -1,6 +1,6 @@
 {
 	"title": "Create the schwifty chain",
-	"description": "This corrects  the issues found in prop-8. This is a new proposal (prop-9) to create the consumer chain \"schwifty-1\". Visit https://github.com/toschdev/ics-testnets/tree/main/game-of-chains-2022/schwifty/prop-9/ for details on this proposal's data and how to join the chain.",
+	"description": "This is the proposal to create the consumer chain \"schwifty-1\", the first ICS consumer chain with an NFT module. Visit https://github.com/clydecarver/ics-testnets/tree/main/game-of-chains-2022/schwifty for details on this proposal's data and how to join the chain.",
 	"chain_id": "schwifty-1",
 	"initial_height": {
 		"revision_height": 1,
@@ -8,6 +8,6 @@
 	},
 	"genesis_hash": "07b697e28618c29b234137240ea153aad37810d786727639fff93e02d81cc2e8",
 	"binary_hash": "2a106d62c61894c4b1de9b5ca748b9875b1ead62a3a918ac3d2b0ac0fbbcb56c",
-	"spawn_time": "2022-11-28T17:00:00.000000Z",
+	"spawn_time": "2022-12-01T00:00:00.000000Z",
 	"deposit": "1uprov"
 }
