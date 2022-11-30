@@ -9,10 +9,10 @@ NODE_HOME=~/.schwifty
 NODE_MONIKER=schwifty
 # ***
 
-CHAIN_BINARY_URL='https://raw.githubusercontent.com/toschdev/ics-testnets/main/game-of-chains-2022/schwifty/prop-9/schwiftyd'
+CHAIN_BINARY_URL='https://github.com/sg-1validator/ics-testnets/raw/main/game-of-chains-2022/schwifty/schwiftyd'
 CHAIN_BINARY='schwiftyd'
 CHAIN_ID=schwifty-1
-PERSISTENT_PEERS="ec639fefab60700e79d22bcac1be522b2149acab@34.82.58.71:26656,f43dacf4268152a1283b7e9c85c7e9f2a2228aa6@34.145.117.181:26656"
+PERSISTENT_PEERS="dcd0e8cb8dbc2e4026685ebbf41d8ea6268e6a99@65.109.90.176:26656"
 
 # Install go 1.19.2
 echo "Installing go..."

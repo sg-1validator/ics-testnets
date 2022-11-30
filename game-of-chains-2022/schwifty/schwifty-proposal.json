@@ -1,13 +1,13 @@
 {
-	"title": "Create the schwifty chain",
-	"description": "This is the proposal to create the consumer chain \"schwifty-1\", the first ICS consumer chain with an NFT module. Visit https://github.com/clydecarver/ics-testnets/tree/main/game-of-chains-2022/schwifty for details on this proposal's data and how to join the chain.",
+	"title": "Start the Schwifty NFT consumer chain",
+	"description": "You feel schwifty already? This is the proposal to create the consumer chain \"schwifty-1\", the first ICS consumer chain with an NFT module. Visit https://github.com/clydecarver/ics-testnets/tree/main/game-of-chains-2022/schwifty for details on this proposal's data and how to join the chain.",
 	"chain_id": "schwifty-1",
 	"initial_height": {
 		"revision_height": 1,
 		"revision_number": 1
 	},
-	"genesis_hash": "07b697e28618c29b234137240ea153aad37810d786727639fff93e02d81cc2e8",
-	"binary_hash": "2a106d62c61894c4b1de9b5ca748b9875b1ead62a3a918ac3d2b0ac0fbbcb56c",
-	"spawn_time": "2022-12-01T00:00:00.000000Z",
+	"genesis_hash": "5c242eddac1df093dd87f534137ae65c72233c0287b5e0fef46c8dfc779f15cb",
+	"binary_hash": "0b5283d07f5b388bf31240e0ae91f54820654e3356d8d5a433095d7a99f0ddd4",
+	"spawn_time": "2022-12-03T16:00:00.000000Z",
 	"deposit": "1uprov"
 }
