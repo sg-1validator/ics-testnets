@@ -33,7 +33,7 @@ chmod +x $HOME/go/bin/$CHAIN_BINARY
 # echo "Installing build-essential..."
 # sudo apt install build-essential -y
 # rm -rf schwifty
-# git clone https://github.com/toschdev/schwifty.git
+# git clone https://github.com/sg-1validator/schwifty.git
 # cd schwifty
 # git checkout tags/v0.1.0
 # make install
