@@ -42,7 +42,7 @@ Binary checksums can differ based on many things to include go, libc, and make v
 
   Example of using a volume mount to get the binary outside of the container onto your ubuntu server.
   ```
-  #run on your ubuntu server
+  # run on your ubuntu server
   # use the `realpath` for the volume mount.
   docker run -v /home/ubuntu/go/bin:/root/go/bin -it --entrypoint /bin/bash ghcr.io/sg-1validator/checksum:v.0.1.0
   ```
@@ -59,7 +59,7 @@ Binary checksums can differ based on many things to include go, libc, and make v
   
   Now, verify the checksum on your local ubuntu server  
   ```
-  #run on your ubuntu server
+  # run on your ubuntu server
   sha256sum /home/ubuntu/go/bin/schwiftyd
   ```
   expected return `0b5283d07f5b388bf31240e0ae91f54820654e3356d8d5a433095d7a99f0ddd4`  
