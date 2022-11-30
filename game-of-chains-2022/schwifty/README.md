@@ -8,7 +8,9 @@ Contents
 
 ## Status
 
-Schwifty is the first ICS consumer chain with an NFT module! Assuming the Game of Chains community approval of the Schwifty governance proposal, implementation will occur as follows:
+Schwifty is the first ICS consumer chain with an NFT module! 
+You want to vote "Yes" on this proposal.
+Assuming the Game of Chains community approval of the Schwifty governance proposal, implementation will occur as follows:
 
 * Timeline
   * 2022-12-01: Spawn time: `2022-12-03T16:00:00.000000000Z`
