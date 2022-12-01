@@ -13,7 +13,7 @@ You want to vote "Yes" on this proposal.
 Assuming the Game of Chains community approval of the Schwifty governance proposal, implementation will occur as follows:
 
 * Timeline
-  * 2022-12-01: Spawn time: `2022-12-03T16:00:00.000000000Z`
+  * 2022-12-01: Spawn time: `2022-12-04T16:00:00.000000000Z`
   * 2022-12-01: Proposal 45 voting period ends
   * 2022-11-29: Proposal 45 goes into voting period
   * 2022-11-29: Genesis file without CCV state is generated
@@ -80,7 +80,7 @@ The genesis file with was generated using the following settings:
 * Denom: `uschwifty`
 * Signed blocks window: `"8640"`
 * Genesis accounts were added to provide funds for a faucet and a relayer that will be run by the testnet coordinators.
-* Genesis file **without CCV state**: [`schwifty-fresh-genesis.json`](schwifty-fresh-genesis.json), SHA256: `5c242eddac1df093dd87f534137ae65c72233c0287b5e0fef46c8dfc779f15cb`
+* Genesis file **without CCV state**: [`schwifty-fresh-genesis.json`](schwifty-fresh-genesis.json), SHA256: `433a6c3aefa35f7722655a8abbc1bf6ccc5cbe696477f71ccd8c7e52967120d9`
   * **This is provided only for verification, this is not the genesis file validators should be running their nodes with.**
 
 ## Endpoints

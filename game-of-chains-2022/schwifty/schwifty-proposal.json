@@ -6,8 +6,8 @@
 		"revision_height": 1,
 		"revision_number": 1
 	},
-	"genesis_hash": "5c242eddac1df093dd87f534137ae65c72233c0287b5e0fef46c8dfc779f15cb",
+	"genesis_hash": "433a6c3aefa35f7722655a8abbc1bf6ccc5cbe696477f71ccd8c7e52967120d9",
 	"binary_hash": "0b5283d07f5b388bf31240e0ae91f54820654e3356d8d5a433095d7a99f0ddd4",
-	"spawn_time": "2022-12-03T16:00:00.000000Z",
+	"spawn_time": "2022-12-04T16:00:00.000000Z",
 	"deposit": "1uprov"
 }
