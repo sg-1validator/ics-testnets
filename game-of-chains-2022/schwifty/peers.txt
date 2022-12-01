@@ -1,5 +1,8 @@
 #Peers for the schwifty consumer chain
 
-#SG-1
+# SG-1
 dcd0e8cb8dbc2e4026685ebbf41d8ea6268e6a99@65.109.90.176:23657
 
+
+# Lavenderfive
+dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:36656

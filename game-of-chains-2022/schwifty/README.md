@@ -14,9 +14,9 @@ Assuming the Game of Chains community approval of the Schwifty governance propos
 
 * Timeline
   * 2022-12-01: Proposal 46 goes into voting period
-  * 2022-12-04: Spawn time: `2022-12-04T16:00:00.000000000Z`
   * 2022-12-04: Proposal 46 voting period ends
   * 2022-12-04: Genesis file without CCV state is generated
+  * 2022-12-04: Spawn time: `2022-12-04T16:00:00.000000000Z`
 
 
 `schwifty` will launch as a consumer chain through a governance proposal in the `provider` chain. Read the [Consumer Chain Start Process](/docs/Consumer-Chain-Start-Process.md) page for more details about the workflow.
@@ -85,7 +85,7 @@ The genesis file with was generated using the following settings:
 
 ## Endpoints
 
-* **p2p persistent peers : `dcd0e8cb8dbc2e4026685ebbf41d8ea6268e6a99@65.109.90.176:23657`**
+* **p2p persistent peers : `dcd0e8cb8dbc2e4026685ebbf41d8ea6268e6a99@65.109.90.176:23657,dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:36656`**
 * These peers represent the `SG-1`validator. We are accepting `250` inbound peeers, but please consider sharing your peers in discord, or create a PR to [`peers.txt`](peers.txt)
 
 * Please keep in mind that any validator that does not come online after 67% of the voting power is up and running, is likely to be slashed for downtime, potentially resulting in being jailed (the `signed_blocks_window` parameter is set to `8640`).

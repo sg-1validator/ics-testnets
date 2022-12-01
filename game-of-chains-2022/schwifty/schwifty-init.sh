@@ -12,7 +12,7 @@ NODE_MONIKER=schwifty
 CHAIN_BINARY_URL='https://github.com/sg-1validator/ics-testnets/raw/main/game-of-chains-2022/schwifty/schwiftyd'
 CHAIN_BINARY='schwiftyd'
 CHAIN_ID=schwifty-1
-PERSISTENT_PEERS="dcd0e8cb8dbc2e4026685ebbf41d8ea6268e6a99@65.109.90.176:23657"
+PERSISTENT_PEERS="dcd0e8cb8dbc2e4026685ebbf41d8ea6268e6a99@65.109.90.176:23657,dd64f68070847a00413ecbe2dc0ed01e584ace57@goc-seeds.lavenderfive.com:36656"
 
 # Install go 1.19.2
 echo "Installing go..."
