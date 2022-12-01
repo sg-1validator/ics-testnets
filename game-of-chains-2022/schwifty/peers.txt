@@ -1,5 +1,5 @@
 #Peers for the schwifty consumer chain
 
 #SG-1
-dcd0e8cb8dbc2e4026685ebbf41d8ea6268e6a99@65.109.90.176:26656
+dcd0e8cb8dbc2e4026685ebbf41d8ea6268e6a99@65.109.90.176:23657
 
