@@ -13,10 +13,10 @@ You want to vote "Yes" on this proposal.
 Assuming the Game of Chains community approval of the Schwifty governance proposal, implementation will occur as follows:
 
 * Timeline
-  * 2022-12-01: Spawn time: `2022-12-04T16:00:00.000000000Z`
-  * 2022-12-01: Proposal 45 voting period ends
-  * 2022-11-29: Proposal 45 goes into voting period
-  * 2022-11-29: Genesis file without CCV state is generated
+  * 2022-12-01: Proposal 46 goes into voting period
+  * 2022-12-04: Spawn time: `2022-12-04T16:00:00.000000000Z`
+  * 2022-12-04: Proposal 46 voting period ends
+  * 2022-12-04: Genesis file without CCV state is generated
 
 
 `schwifty` will launch as a consumer chain through a governance proposal in the `provider` chain. Read the [Consumer Chain Start Process](/docs/Consumer-Chain-Start-Process.md) page for more details about the workflow.
