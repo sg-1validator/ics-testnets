@@ -14,8 +14,8 @@ Assuming the Game of Chains community approval of the Schwifty governance propos
 
 * Timeline
   * 2022-12-01: Spawn time: `2022-12-03T16:00:00.000000000Z`
-  * 2022-12-01: Proposal 4x voting period ends
-  * 2022-11-29: Proposal 4x goes into voting period
+  * 2022-12-01: Proposal 45 voting period ends
+  * 2022-11-29: Proposal 45 goes into voting period
   * 2022-11-29: Genesis file without CCV state is generated
 
 
