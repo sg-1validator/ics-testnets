@@ -1,6 +1,6 @@
 {
 	"title": "Start the Schwifty NFT consumer chain",
-	"description": "You feel schwifty already? This is the proposal to create the consumer chain \"schwifty-1\", the first ICS consumer chain with an NFT module. Visit https://github.com/clydecarver/ics-testnets/tree/main/game-of-chains-2022/schwifty for details on this proposal's data and how to join the chain.",
+	"description": "You feel schwifty already? You have passed the test of the first proposal. Let's get real! This is the proposal to create the consumer chain \"schwifty-1\", the first ICS consumer chain with an NFT module. Visit https://github.com/clydecarver/ics-testnets/tree/main/game-of-chains-2022/schwifty for details on this proposal's data and how to join the chain.",
 	"chain_id": "schwifty-1",
 	"initial_height": {
 		"revision_height": 1,
