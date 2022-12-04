@@ -46,7 +46,7 @@ Binary checksums can differ based on many things to include go, libc, and make v
   ```
   # run on your ubuntu server
   # use the `realpath` for the volume mount.
-  docker run -v /home/ubuntu/go/bin:/root/go/bin -it --entrypoint /bin/bash ghcr.io/sg-1validator/checksum:v.0.1.0
+  docker run -v /home/ubuntu/go/bin:/root/go/bin -it --entrypoint /bin/bash ghcr.io/strangelove-ventures/checksum:v.0.1.0
   ```
   ```
   # run inside docker container.
